@@ -5,6 +5,6 @@ I'm going to continue developing this project.
 ----
 * [Click to watch video](https://youtu.be/pkEA9nFDrGU)
 ----
-![Game Photo](Images/CarPrototype.png)
+![Game Photo](Images/CarPrototype.PNG)
 ----
-![Game Photo](Images/CarPrototype2.png)
+![Game Photo](Images/CarPrototype2.PNG)
